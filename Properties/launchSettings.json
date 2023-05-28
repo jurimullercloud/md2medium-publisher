@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "md2medium_publisher_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7060",
+      "launchBrowser": false
+    }
+  }
+}
